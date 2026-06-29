@@ -139,7 +139,7 @@ Heart-Disease-Prediction/
 ├── processed.cleveland.data
 ├── heart_disease_model.pkl
 ├── READmd
-├── requiremME.ents.txt/
+├── requirements.txt/
 ```
 
 ---
