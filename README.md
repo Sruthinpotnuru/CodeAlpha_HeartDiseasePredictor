@@ -138,7 +138,7 @@ Heart-Disease-Prediction/
 ├── Heart_Disease_Prediction.ipynb
 ├── processed.cleveland.data
 ├── heart_disease_model.pkl
-├── READmd
+├── README.md
 ├── requirements.txt/
 ```
 
